@@ -131,7 +131,7 @@
     </footer>
 
     <!-- WhatsApp Chat -->
-    <a class="whatsapp-button" href="https://wa.me/5587991233180" target="_blank">
+    <a class="whatsapp-button" href="https://wa.me/5534991233180" target="_blank">
         💬 Fale conosco
     </a>
 
