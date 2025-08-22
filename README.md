@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>DEILSOM BARBER - Exu-PE</title>
+    <title>Loja Araujo - Exu-PE</title>
     <style>
         body {
             font-family: Arial, sans-serif;
@@ -91,8 +91,8 @@
     <script type="text/javascript" src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>
 
     <header>
-        <h1>DEILSOM BARBER</h1>
-        <p>Rua Padre Medeiros, N°13 - Centro, Exu-PE</p>
+        <h1>Loja Araujo</h1>
+        <p>Rua Padre Medeiros, N°00 - Centro, Exu-PE</p>
     </header>
 
     <nav>
@@ -105,17 +105,17 @@
         <section id="servicos" class="services">
             <h2>Serviços</h2>
             <ul>
-                <li>✂️ Corte de Cabelo</li>
-                <li>🧔 Barba</li>
-                <li>👨‍🦱 Bigode</li>
+                <li>Temos Roupas de Varios Estilos</li>
+                <li>Camisetas Polo</li>
+                <li>Calças,Bermudas Bonés etc</li>
             </ul>
         </section>
 
         <section id="localizacao" class="map">
             <h2>Nosso Endereço</h2>
-            <p>Rua Padre Medeiros, N°13 - Centro, Exu-PE</p>
+            <p>Rua Padre Medeiros, N°00 - Centro, Exu-PE</p>
             <iframe 
-                src="https://www.google.com/maps?q=Rua+Padre+Medeiros,+13,+Exu-PE&output=embed"
+                src="https://www.google.com/maps?q=Rua+Padre+Medeiros,+00,+Exu-PE&output=embed"
                 width="100%" 
                 height="350" 
                 style="border:0;" 
@@ -127,11 +127,11 @@
     </div>
 
     <footer id="contato">
-        <p>© 2025 DEILSOM BARBER - Todos os direitos reservados</p>
+        <p>© 2025 LOJA ARAUJO - Todos os direitos reservados</p>
     </footer>
 
     <!-- WhatsApp Chat -->
-    <a class="whatsapp-button" href="https://wa.me/5534991233180" target="_blank">
+    <a class="whatsapp-button" href="https://wa.me/5587900000000" target="_blank">
         💬 Fale conosco
     </a>
 
