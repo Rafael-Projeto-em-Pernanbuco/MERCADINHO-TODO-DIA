@@ -1,139 +1,80 @@
 
 <html lang="pt-BR">
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Loja Araujo - Exu-PE</title>
-    <style>
-        body {
-            font-family: Arial, sans-serif;
-            background-color: #ffffff;
-            color: #000000;
-            margin: 0;
-            padding: 0;
-        }
-
-        header {
-            background-color: #3e2c23;
-            color: #ffffff;
-            padding: 20px;
-            text-align: center;
-        }
-
-        nav {
-            background-color: #000000;
-            color: #ffffff;
-            text-align: center;
-            padding: 10px 0;
-        }
-
-        nav a {
-            color: #ffffff;
-            margin: 0 15px;
-            text-decoration: none;
-        }
-
-        .container {
-            padding: 20px;
-        }
-
-        .services {
-            background-color: #f3f3f3;
-            padding: 20px;
-            border-left: 5px solid #3e2c23;
-            margin-bottom: 20px;
-        }
-
-        .map {
-            margin: 20px 0;
-            text-align: center;
-        }
-
-        footer {
-            background-color: #000000;
-            color: #ffffff;
-            text-align: center;
-            padding: 15px;
-        }
-
-        /* WhatsApp Chat Button */
-        .whatsapp-button {
-            position: fixed;
-            bottom: 20px;
-            right: 20px;
-            background-color: #25d366;
-            color: white;
-            border-radius: 50px;
-            padding: 12px 20px;
-            text-decoration: none;
-            font-weight: bold;
-            box-shadow: 0 4px 6px rgba(0,0,0,0.2);
-            z-index: 1000;
-        }
-
-        .translate {
-            position: fixed;
-            top: 10px;
-            right: 10px;
-            z-index: 1000;
-        }
-    </style>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Mercadinho Todo Dia</title>
+  <link rel="stylesheet" href="styles.css">
 </head>
 <body>
+  <!-- Cabeçalho -->
+  <header>
+    <h1>Mercadinho Todo Dia</h1>
+    <p>Rua Deum Peixoto Nº108 - Exu, PE</p>
+  </header>
 
-    <!-- Google Translate -->
-    <div class="translate" id="google_translate_element"></div>
-    <script type="text/javascript">
-      function googleTranslateElementInit() {
-        new google.translate.TranslateElement({pageLanguage: 'pt', includedLanguages: 'en,es,fr,de,it'}, 'google_translate_element');
-      }
-    </script>
-    <script type="text/javascript" src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>
+  <!-- Seção do Tradutor -->
+  <div id="google_translate_element"></div>
 
-    <header>
-        <h1>Loja Araujo</h1>
-        <p>Rua Padre Medeiros, N°00 - Centro, Exu-PE</p>
-    </header>
+  <!-- Mapa -->
+  <section class="mapa">
+    <h2>Onde estamos</h2>
+    <iframe
+      src="https://www.google.com/maps?q=Rua%20Deum%20Peixoto%20N%C2%BA108%20Exu%20PE&output=embed"
+      width="100%" height="300" style="border:0;" allowfullscreen="" loading="lazy">
+    </iframe>
+  </section>
 
-    <nav>
-        <a href="#servicos">Serviços</a>
-        <a href="#localizacao">Localização</a>
-        <a href="#contato">Contato</a>
-    </nav>
+  <!-- Cadastro de Email -->
+  <section class="cadastro">
+    <h2>Cadastre-se para novidades!</h2>
+    <form id="emailForm">
+      <input type="email" id="email" placeholder="Digite seu e-mail" required />
+      <button type="submit">Cadastrar</button>
+    </form>
+    <p id="mensagem"></p>
+  </section>
 
-    <div class="container">
-        <section id="servicos" class="services">
-            <h2>Serviços</h2>
-            <ul>
-                <li>Temos Roupas de Varios Estilos</li>
-                <li>Camisetas Polo</li>
-                <li>Calças,Bermudas Bonés etc</li>
-            </ul>
-        </section>
-
-        <section id="localizacao" class="map">
-            <h2>Nosso Endereço</h2>
-            <p>Rua Padre Medeiros, N°00 - Centro, Exu-PE</p>
-            <iframe 
-                src="https://www.google.com/maps?q=Rua+Padre+Medeiros,+00,+Exu-PE&output=embed"
-                width="100%" 
-                height="350" 
-                style="border:0;" 
-                allowfullscreen="" 
-                loading="lazy" 
-                referrerpolicy="no-referrer-when-downgrade">
-            </iframe>
-        </section>
+  <!-- Redes Sociais -->
+  <section class="redes">
+    <h2>Nos siga nas redes sociais</h2>
+    <div class="botoes-redes">
+      <a href="https://facebook.com" target="_blank">Facebook</a>
+      <a href="https://instagram.com" target="_blank">Instagram</a>
+      <a href="https://wa.me/5587999999999" target="_blank">WhatsApp</a>
+      <a href="https://twitter.com" target="_blank">Twitter</a>
+      <a href="https://www.kwai.com" target="_blank">Kwai</a>
+      <a href="https://tiktok.com" target="_blank">TikTok</a>
+      <a href="https://telegram.org" target="_blank">Telegram</a>
     </div>
+  </section>
 
-    <footer id="contato">
-        <p>© 2025 LOJA ARAUJO - Todos os direitos reservados</p>
-    </footer>
+  <!-- Rodapé -->
+  <footer>
+    <p>&copy; 2025 Mercadinho Todo Dia - Todos os direitos reservados</p>
+  </footer>
 
-    <!-- WhatsApp Chat -->
-    <a class="whatsapp-button" href="https://wa.me/5587900000000" target="_blank">
-        💬 Fale conosco
-    </a>
+  <!-- Chat Online Tawk.to -->
+  <script type="text/javascript">
+    var Tawk_API = Tawk_API || {}, Tawk_LoadStart = new Date();
+    (function () {
+      var s1 = document.createElement("script"), s0 = document.getElementsByTagName("script")[0];
+      s1.async = true;
+      s1.src = 'https://embed.tawk.to/SEU_ID_AQUI/default';
+      s1.charset = 'UTF-8';
+      s1.setAttribute('crossorigin', '*');
+      s0.parentNode.insertBefore(s1, s0);
+    })();
+  </script>
 
+  <!-- Google Tradutor -->
+  <script type="text/javascript">
+    function googleTranslateElementInit() {
+      new google.translate.TranslateElement({pageLanguage: 'pt'}, 'google_translate_element');
+    }
+  </script>
+  <script src="https://translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>
+
+  <script src="script.js"></script>
 </body>
 </html>
