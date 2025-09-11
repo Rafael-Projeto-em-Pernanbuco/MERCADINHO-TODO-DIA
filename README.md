@@ -97,7 +97,7 @@
   <!-- Cabeçalho -->
   <header>
     <h1>Comercial Carioca</h1>
-    <p>Av.Canuto Peixoto N°755,Centro - Exu, PE</p>
+    <p>Av.Raimundo Canuto N°755,Centro - Exu, PE</p>
   </header>
 
   <!-- Mapa -->
@@ -122,9 +122,9 @@
   <!-- Redes Sociais -->
   <section class="redes">
     <h2>Redes Sociais</h2>
-    <a href="https://facebook.com/comercialcarioca/" target="_blank">Facebook</a>
-    <a href="https://instagram.com/comercialcarioca/" target="_blank">Instagram</a>
-    <a href="https://wa.me/5587981553641" target="_blank">WhatsApp</a>
+    <a href="https://www.facebook.com/share/1Gu9wH51NK/?mibextid=wwXIfr" target="_blank">Facebook</a>
+    <a href="https://www.instagram.com/comercialccarioca?igsh=YjFybjkzcXgyNjZi" target="_blank">Instagram</a>
+    <a href="https://wa.me/5587999227464" target="_blank">WhatsApp</a>
     <a href="https://twitter.com/comercialcarioca/" target="_blank">Twitter</a>
     <a href="https://www.kwai.com/comercialcarioca/" target="_blank">Kwai</a>
     <a href="https://tiktok.com/comercialcarioca/" target="_blank">TikTok</a>
