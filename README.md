@@ -123,7 +123,7 @@
   <section class="redes">
     <h2>Redes Sociais</h2>
     <a href="https://facebook.com" target="_blank">Facebook</a>
-    <a href="https://instagram.com/@comercialcarioca" target="_blank">Instagram</a>
+    <a href="https://instagram.com/@comercialcarioca/" target="_blank">Instagram</a>
     <a href="https://wa.me/5587981553641" target="_blank">WhatsApp</a>
     <a href="https://twitter.com" target="_blank">Twitter</a>
     <a href="https://www.kwai.com" target="_blank">Kwai</a>
