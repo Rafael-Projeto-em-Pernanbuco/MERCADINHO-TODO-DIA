@@ -97,7 +97,7 @@
   <!-- Cabeçalho -->
   <header>
     <h1>Comercial Carioca</h1>
-    <p>Rua Deum Peixoto Nº108 - Exu, PE</p>
+    <p>Av.Canuto Peixoto N°755,Centro - Exu, PE</p>
   </header>
 
   <!-- Mapa -->
