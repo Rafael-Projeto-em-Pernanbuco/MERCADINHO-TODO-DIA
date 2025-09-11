@@ -122,13 +122,13 @@
   <!-- Redes Sociais -->
   <section class="redes">
     <h2>Redes Sociais</h2>
-    <a href="https://facebook.com" target="_blank">Facebook</a>
-    <a href="https://instagram.com/@comercialcarioca/" target="_blank">Instagram</a>
+    <a href="https://facebook.com/comercialcarioca/" target="_blank">Facebook</a>
+    <a href="https://instagram.com/comercialcarioca/" target="_blank">Instagram</a>
     <a href="https://wa.me/5587981553641" target="_blank">WhatsApp</a>
-    <a href="https://twitter.com" target="_blank">Twitter</a>
-    <a href="https://www.kwai.com" target="_blank">Kwai</a>
-    <a href="https://tiktok.com" target="_blank">TikTok</a>
-    <a href="https://telegram.org" target="_blank">Telegram</a>
+    <a href="https://twitter.com/comercialcarioca/" target="_blank">Twitter</a>
+    <a href="https://www.kwai.com/comercialcarioca/" target="_blank">Kwai</a>
+    <a href="https://tiktok.com/comercialcarioca/" target="_blank">TikTok</a>
+    <a href="https://telegram.org/comercialcarioca" target="_blank">Telegram</a>
   </section>
 
   <!-- Rodapé -->
