@@ -2,7 +2,7 @@
 <html lang="pt-BR">
 <head>
   <meta charset="UTF-8">
-  <title>Mercadinho Todo Dia</title>
+  <title>Comercial Carioca</title>
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
   <style>
@@ -96,7 +96,7 @@
 
   <!-- Cabeçalho -->
   <header>
-    <h1>Mercadinho Todo Dia</h1>
+    <h1>Comercial Carioca</h1>
     <p>Rua Deum Peixoto Nº108 - Exu, PE</p>
   </header>
 
@@ -104,7 +104,7 @@
   <section>
     <h2>Localização</h2>
     <iframe
-      src="https://www.google.com/maps?q=Rua+Deum+Peixoto+108,+Exu,+PE&output=embed"
+      src="https://www.google.com/maps?q=Av+Raimundo+Canuto+755,+Exu,+PE&output=embed"
       width="90%" height="300" allowfullscreen="" loading="lazy">
     </iframe>
   </section>
@@ -123,8 +123,8 @@
   <section class="redes">
     <h2>Redes Sociais</h2>
     <a href="https://facebook.com" target="_blank">Facebook</a>
-    <a href="https://instagram.com" target="_blank">Instagram</a>
-    <a href="https://wa.me/5587999980935" target="_blank">WhatsApp</a>
+    <a href="https://instagram.com/@comercialcarioca" target="_blank">Instagram</a>
+    <a href="https://wa.me/5587981553641" target="_blank">WhatsApp</a>
     <a href="https://twitter.com" target="_blank">Twitter</a>
     <a href="https://www.kwai.com" target="_blank">Kwai</a>
     <a href="https://tiktok.com" target="_blank">TikTok</a>
@@ -133,7 +133,7 @@
 
   <!-- Rodapé -->
   <footer>
-    <p>&copy; 2025 Mercadinho Todo Dia. Todos os direitos reservados.</p>
+    <p>&copy; 2025 Comercial Carioca. Todos os direitos reservados.</p>
   </footer>
 
   <!-- Script de cadastro -->
